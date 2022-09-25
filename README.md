@@ -1,4 +1,4 @@
-# PALAVRA SECRETA
+# PALAVRA SECRETA (React JS)
 
 Jogue para descobrir qual a palavra correta, acerte mais letras para ganhar mais pontos!
 
